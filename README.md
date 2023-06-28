@@ -6,7 +6,7 @@
 
 ![](static/Graphic.jpg)
 
-Welcome to the 2023 Research Park Hackathon! Here's some helpful links:
+Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 * [Project Submission][submission_link]
 * [UIRP Event Info Page][uirp_event_link]
 * [uirphack - GitHub][uirphack_link]
@@ -55,6 +55,9 @@ Follow along for instructions on how to submit your project.
 
 ### Presentation / Game Demo
 * Teams are able to present their project in whatever manner they choose, so long as the requirements are met
+
+## Integrity
+TBD
 
 # Schedule 
 
