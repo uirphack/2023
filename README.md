@@ -1,6 +1,8 @@
 [submission_link]: https://www.google.com
 [uirp_event_link]: https://researchpark.illinois.edu/all-events/2023-research-park-hackathon/
 [uirphack_link]: https://github.com/uirphack
+[illini_snake_link]: https://github.com/uirphack/illini-snake
+[request_access_link]: https://www.google.com
 
 # 2023 Research Park Hackathon
 
@@ -8,6 +10,7 @@
 
 Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 * [Project Submission][submission_link]
+* [Request Access to GitHub Organization][request_access_link]
 * [UIRP Event Info Page][uirp_event_link]
 * [uirphack - GitHub][uirphack_link]
 
@@ -46,11 +49,11 @@ Follow along for instructions on how to submit your project.
 
 ### Code
 * Create a **private** repository within the GitHub organization [uirphack][uirphack_link]
+    * Feel free to use the [illini-snake][illini_snake_link] repository as a template
 * Commit all code and satisfy all requirements listed above
 * Repositories will automatically be made public after the submission deadline
 
 ### Video
-* Any remaining time 
 * YouTube videos must be posted as public or unlisted
 
 ### Presentation / Game Demo
