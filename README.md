@@ -3,6 +3,9 @@
 [uirphack_link]: https://github.com/uirphack
 
 # 2023 Research Park Hackathon
+
+![](static/Graphic.jpg)
+
 Welcome to the 2023 Research Park Hackathon! Here's some helpful links:
 * [Submit your Project][submission_link]
 * [UIRP Event Info Page][uirp_event_link]
