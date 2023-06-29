@@ -91,9 +91,11 @@ TBD
 * 3rd Place
 
 # Judges Panel
-* **Jarai Carter, PhD**: *Manager, Data Science* - John Deere
-* **Anna Chi**: *UX Designer* - Brunswick
 * **Matt Ahrens**: *Data Science* - NVIDIA
+* **Anna Chi**: *UX Designer* - Brunswick
+* **Ben Kimmel**: *Manager, Software Engineering* - Cargill
+* **Jarai Carter, PhD**: *Manager, Data Science* - John Deere
+
 
 
 
