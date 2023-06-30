@@ -95,21 +95,3 @@ TBD
 * **Anna Chi**: *UX Designer* - Brunswick
 * **Ben Kimmel**: *Manager, Software Engineering* - Cargill
 * **Jarai Carter, PhD**: *Manager, Data Science* - John Deere
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
