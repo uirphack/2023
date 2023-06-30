@@ -11,7 +11,6 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 * [UIRP Event Info Page][uirp_event_link]
 * [uirphack - GitHub][uirphack_link]
 
-
 # Hackathon Prompt
 * Create a functioning video game
     * Games can be created in any programming language / framework
@@ -91,20 +90,4 @@ TBD
 * **Jarai Carter, PhD**: *Manager, Data Science* - John Deere
 * **Anna Chi**: *UX Designer* - Brunswick
 * **Matt Ahrens**: *Data Science* - NVIDIA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* **Ben Kimmel**: *Software Engineering* - Cargill
