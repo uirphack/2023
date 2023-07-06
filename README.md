@@ -1,8 +1,6 @@
-[submission_link]: https://www.google.com
+[submission_link]: https://forms.gle/vSEEjw2xFut63XwE8
 [uirp_event_link]: https://researchpark.illinois.edu/all-events/2023-research-park-hackathon/
-[uirphack_link]: https://github.com/uirphack
 [illini_snake_link]: https://github.com/uirphack/illini_snake
-[request_access_link]: https://www.google.com
 
 # 2023 Research Park Hackathon
 
@@ -10,10 +8,8 @@
 
 Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 * [Project Submission][submission_link]
-* [Request Access to GitHub Organization][request_access_link]
 * [UIRP Event Info Page][uirp_event_link]
-* [uirphack - GitHub][uirphack_link]
-
+* [illini_snake - Template Repository][illini_snake_link]
 
 # Hackathon Prompt
 * Create a functioning video game
@@ -34,7 +30,7 @@ Follow along for submission requirements for your code, video, and presentation 
         * Link to your [YouTube Video](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
         * "How-to-Play" section for your video game
         * Image or GIF representing your video game
-    * Repositories with commits after the submission deadline will be disqualified
+    * Only commits submitted before the deadline will be considered
 * Video (YouTube)
     * A video between 60-120 seconds in length
     * The video must contain at least 60 seconds of gameplay footage
