@@ -16,14 +16,14 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 # Hackathon Prompt
 * Create a functioning video game
     * Games can be created in any programming language / framework
-* Incorporate your company's branding and/or industry into your game design
+* Incorporate your company/industry into your game design
 * Video games are to be created with the theme "Retro Video Games"
     * Think 2-Dimensional
 
 # Submission 
 **To submit your Hackathon Project, click [here][submission_link].**
 
-## Requirements
+# Requirements
 Follow along for submission requirements for your code, video, and presentation (finalists only).
 * Code (GitHub)
     * All code used in your project is contained on your repo's main branch
