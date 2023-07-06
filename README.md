@@ -1,7 +1,7 @@
 [submission_link]: https://www.google.com
 [uirp_event_link]: https://researchpark.illinois.edu/all-events/2023-research-park-hackathon/
 [uirphack_link]: https://github.com/uirphack
-[illini_snake_link]: https://github.com/uirphack/illini-snake
+[illini_snake_link]: https://github.com/uirphack/illini_snake
 [request_access_link]: https://www.google.com
 
 # 2023 Research Park Hackathon
