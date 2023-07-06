@@ -44,18 +44,19 @@ Follow along for submission requirements for your code, video, and presentation 
 Follow along for instructions on how to submit your project.
 
 ### Code
-* Create a **private** repository within the GitHub organization [uirphack][uirphack_link]
+* Create a **private** GitHub repository, shared with your teammates
     * Feel free to use the [illini-snake][illini_snake_link] repository as a template
 * Commit all code and satisfy all requirements listed above
-* Repositories will automatically be made public after the submission deadline
+* **Make repository public on submission**
 
 ### Video
+* Create a video and upload it to YouTube
 * YouTube videos must be posted as public or unlisted
 
 ### Presentation / Game Demo
-* Teams are able to present their project in whatever manner they choose, so long as the requirements are met
+* Teams are able to present their project in whatever manner they choose, so long as the above requirements are met
 
-## Integrity
+# Integrity
 TBD
 
 # Schedule 
