@@ -33,30 +33,17 @@ Follow along for submission requirements for your code, video, and presentation 
         * "How-to-Play" section for your video game
         * Image or GIF representing your video game
     * Only commits submitted before the deadline will be considered
+    * Repository must public upon submission
+        * Feel free to use [illini_snake][illini_snake_link] as a template for your repository
 * Video (YouTube)
     * A video between 60-120 seconds in length
     * The video must contain at least 60 seconds of gameplay footage
     * Video published to YouTube (either public or unlisted)
+    * The rest of the time is 
 * Presentation / Game Demo (Live) - *Finalists Only*
     * Presentation to Judge Panel can last **no longer than 5 minutes**
     * At least two minutes of the presentation must be reserved for **live gameplay** from a representative of the judges panel
         * Hackathon team is required to provide a machine on which the judges can play the video game
-
-## Instructions
-Follow along for instructions on how to submit your project.
-
-### Code
-* Create a **private** GitHub repository, shared with your teammates
-    * Feel free to use the [illini-snake][illini_snake_link] repository as a template
-* Commit all code and satisfy all requirements listed above
-* **Make repository public on submission**
-
-### Video
-* Create a video and upload it to YouTube
-* YouTube videos must be posted as public or unlisted
-
-### Presentation / Game Demo
-* Teams are able to present their project in whatever manner they choose, so long as the above requirements are met
 
 ## Integrity
 TBD
