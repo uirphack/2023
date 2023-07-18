@@ -2,7 +2,7 @@
 [uirp_event_link]: https://researchpark.illinois.edu/all-events/2023-research-park-hackathon/
 [illini_snake_link]: https://github.com/uirphack/illini_snake
 [prompt_presentation_link]: https://www.dropbox.com/scl/fi/5v1mr50zcrutoli0a9fhp/2023-Hackathon-Prompt.pptx?rlkey=6iok7g7v18fu1ya9rss3hei7x&dl=0
-[discord_link]: https://discord.gg/9cVsjdgg5E
+[discord_link]: https://discord.gg/YGHrvCnm
 
 # 2023 Research Park Hackathon
 
@@ -133,9 +133,9 @@ This rubric serves as a **guide** for the judges' panel to determine finalists a
 |---|---|---|---|---|---|
 | **Theme Accuracy**  | Not a retro video game  |   | Feels somewhat like a retro video ame |   | Feels just like a retro video game |
 | **Company / Industry Incorporation**  | No incorporation | Company logo added, color changes, etc | Small aspects from your company/industry are present |  Many aspects from your company/industry are present | Entire game story is focused on your company/industry |
-| **Overall Creativity**  | You made an exact replica of an existing game |   | You took an existing game and make small adjustments  |   | An exceptional redesign of an existing game / completely novel game |
-| **Game Functionality and Design**  | Game does not function / unplayable | Major bugs |    | Game functions very well except a few minor bugs |  Game functions very well |
-| **Video**  | Video does not meet requirements / no submission | Meets all requirements  | Meets all requirements  |   | Meets all requirements and embraces the theme of the game |
+| **Overall Creativity**  | No creativity was shown / carbon copy of an existing game |   | Your approach is somewhat creative  |   | Very high creativity demonstrated; An exceptional game redesign or a completely novel game |
+| **Game Functionality and Design**  | Game does not function / unplayable | Major bugs |  Game functions somewhat well; several bugs present  | Game functions very well except a few minor bugs |  Game functions very well |
+| **Video**  | Video does not meet requirements / no submission |  | Meets all requirements, somewhat introduces the game |   | Meets all requirements, goes above and beyond to introduce the game |
 
 ## Awards
 * 1st Place*
@@ -156,3 +156,10 @@ This rubric serves as a **guide** for the judges' panel to determine finalists a
 * **Build a strong foundation** of knowledge of your game's framework early on
 * **Iterate with small changes** and improvements to the game
 * Be sure to complete all requirements
+
+
+<br>
+
+**Good luck!**
+
+-James Kabbes | 2023
