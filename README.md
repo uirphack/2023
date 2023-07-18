@@ -35,7 +35,7 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 ## Company/Industry Incorporation
 * Games should incorporate something related to your company/industry
 * Low amounts of incorporation (adding logo, changing color scheme) will score low with judges
-* High amounts of incorporation (game theme, gameplay, ) will score high with judges
+* High amounts of incorporation (game theme, gameplay, etc.) will score high with judges
 
 # Schedule 
 
@@ -47,7 +47,7 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 
 ## Thursday, July 20th 2023
 * **10:00 AM**: Finalists announced via email
-* **12:00 PM - 12:45 PM**: Finalist presentations @ EnterpriseWorks Atrium; open to all
+* **12:00 PM - 12:45 PM**: Finalist presentations @ EnterpriseWorks Atrium; open to the public
 * **5:00 PM**: Winners announced at Fire @ Five
 
 
@@ -112,18 +112,18 @@ Teams selected as finalists will be required to do a **3)** short presentation t
 # Evaluations
 
 ## Judges' Panel
-* **Matt Ahrens**: *Data Science* - NVIDIA
-* **Anna Chi**: *UX Designer* - Brunswick
-* **Ben Kimmel**: *Manager, Software Engineering* - Cargill
-* **Jarai Carter, PhD**: *Manager, Data Science* - John Deere
+* **[Matt Ahrens](https://www.linkedin.com/in/matt-ahrens-b62984/)**: *Data Science* - NVIDIA
+* **[Anna Chi](https://www.linkedin.com/in/annachidesign/)**: *UX Design* - Brunswick
+* **[Ben Kimmel](https://www.linkedin.com/in/ben-kimmel/)**: *Software Engineering* - Cargill
+* **[Jarai Carter, PhD](https://www.linkedin.com/in/jaraicarter/)**: *Data Science* - John Deere
 
 ## Criteria
 
 * Theme Accuracy
 * Company / Industry Incorporation
 * Overall Creativity 
-* Game Functionality and Design
 * Video
+* Game Functionality and Design
 * *Live Presentation and Game Demo (Finalists Only)*
 
 ### Rubric
@@ -134,7 +134,7 @@ This rubric serves as a **guide** for the judges' panel to determine finalists a
 | **Theme Accuracy**  | Not a retro video game  |   | Feels somewhat like a retro video ame |   | Feels just like a retro video game |
 | **Company / Industry Incorporation**  | No incorporation | Company logo added, color changes, etc | Small aspects from your company/industry are present |  Many aspects from your company/industry are present | Entire game story is focused on your company/industry |
 | **Overall Creativity**  | No creativity was shown / carbon copy of an existing game |   | Your approach is somewhat creative  |   | Very high creativity demonstrated; An exceptional game redesign or a completely novel game |
-| **Game Functionality and Design**  | Game does not function / unplayable / code requirements not met | Major bugs |  Game functions somewhat well; several bugs present  | Game functions very well except a few minor bugs |  Game functions very well / all code requirements are met |
+| **Game Functionality and Design**  | Game does not function / unplayable / code requirements not met | Major bugs |  Game functions somewhat well; several bugs present  | Game functions very well except a few minor bugs |  Game functions very well; all code requirements are met |
 | **Video**  | Video does not meet requirements / no submission |  | Meets all requirements, somewhat introduces the game |   | Meets all requirements, goes above and beyond to introduce the game |
 
 ## Awards
