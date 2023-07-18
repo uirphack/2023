@@ -17,12 +17,12 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 
 # Hackathon Prompt
 
-**Create your own retro video, incorporating your company/industry into the game design**
+**Create your own retro video game, incorporating your company/industry into the game design**
 
 ## Completion Requirements
 * Completed in any programming language / framework
 * Team must provide the machine that runs the video game
-    * We are expecting laptops, but all machines are welcome 
+    * Laptops, tablets, and phones are excepted, but all machines are welcome 
 
 ## Retro Video Games
 * Think 2-Dimensional arcade games
@@ -59,7 +59,7 @@ Teams selected as finalists will be required to do a **3)** short presentation t
 
 ## Requirements
 * Code (GitHub)
-    * All code used in your project is contained on your repo's main branch
+    * All code used in your project is contained on your repository
     * A **README.md** file containing *at least* the following
         * The names and companies of your hackathon group
         * Image or GIF representing your video game
@@ -134,7 +134,7 @@ This rubric serves as a **guide** for the judges' panel to determine finalists a
 | **Theme Accuracy**  | Not a retro video game  |   | Feels somewhat like a retro video ame |   | Feels just like a retro video game |
 | **Company / Industry Incorporation**  | No incorporation | Company logo added, color changes, etc | Small aspects from your company/industry are present |  Many aspects from your company/industry are present | Entire game story is focused on your company/industry |
 | **Overall Creativity**  | No creativity was shown / carbon copy of an existing game |   | Your approach is somewhat creative  |   | Very high creativity demonstrated; An exceptional game redesign or a completely novel game |
-| **Game Functionality and Design**  | Game does not function / unplayable | Major bugs |  Game functions somewhat well; several bugs present  | Game functions very well except a few minor bugs |  Game functions very well |
+| **Game Functionality and Design**  | Game does not function / unplayable / code requirements not met | Major bugs |  Game functions somewhat well; several bugs present  | Game functions very well except a few minor bugs |  Game functions very well / all code requirements are met |
 | **Video**  | Video does not meet requirements / no submission |  | Meets all requirements, somewhat introduces the game |   | Meets all requirements, goes above and beyond to introduce the game |
 
 ## Awards
