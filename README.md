@@ -1,7 +1,7 @@
 [submission_link]: https://forms.gle/vSEEjw2xFut63XwE8
 [uirp_event_link]: https://researchpark.illinois.edu/all-events/2023-research-park-hackathon/
 [illini_snake_link]: https://github.com/uirphack/illini_snake
-[prompt_presentation_link]: https://www.dropbox.com/scl/fi/5v1mr50zcrutoli0a9fhp/2023-Hackathon-Prompt.pptx?rlkey=6iok7g7v18fu1ya9rss3hei7x&dl=0
+[prompt_presentation_link]: https://www.dropbox.com/scl/fi/u6l58uve7tvx9iv4kmxwr/2023-Hackathon-Prompt.pptx?rlkey=adpx63rk9we4k32xdsmbxlsx6&dl=0
 [discord_link]: https://discord.gg/YGHrvCnm
 
 # 2023 Research Park Hackathon
