@@ -21,17 +21,17 @@ submission = ''
 keys = [ 'project_name', 'github', 'youtube', 'company']
 
 ind = 0
-submission += '<table>'
+submission += '<table>\n'
 while ind < len(df_submissions):
-    submission += '<tr>'
+    submission += '<tr>\n'
 
     for _ in range(4):
         kwargs = { key: df_submissions.loc[ind,key] for key in keys }
-        submission += '<td>' + submission_template.format( **kwargs ) + '</td>'
+        submission += '<td>\n' + submission_template.format( **kwargs ) + '\n</td>\n'
         ind += 1
 
-    submission += '</tr>'
-submission += '</table>'
+    submission += '</tr>\n'
+submission += '</table>\n'
 
 
 # 3. Populate submissions template

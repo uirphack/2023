@@ -17,23 +17,53 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 
 # Submissions
 
-<table><tr><td><div align="center">Crossy Notes | Capital One</div> <br>
-<img src="static/Crossy Notes.gif" alt="Crossy Notes Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/quinnouyang/CrossyNotes">Code</a> | <a href="https://www.youtube.com/watch?v=mAqWyB2h01U">Video</a></div> </td><td><div align="center">Capital One Cafe Catastrophe | Capital One</div> <br>
-<img src="static/Capital One Cafe Catastrophe.gif" alt="Capital One Cafe Catastrophe Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/adithnarayanan/c1-cafe-catastrophe">Code</a> | <a href="https://www.youtube.com/watch?v=FrpnGCZpwXU">Video</a></div> </td><td><div align="center">Capital Clash | Capital One</div> <br>
+<table>
+<tr>
+<td>
+<div align="center">Capital Clash | Capital One</div> <br>
 <img src="static/Capital Clash.gif" alt="Capital Clash Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/Messina22/c1-hackathon">Code</a> | <a href="https://www.youtube.com/watch?v=ooCHkTgARCc">Video</a></div> </td><td><div align="center">Crossy Tractor | John Deere</div> <br>
+<div align="center"> <a href="https://github.com/Messina22/c1-hackathon">Code</a> | <a href="https://www.youtube.com/watch?v=ooCHkTgARCc">Video</a></div> 
+</td>
+<td>
+<div align="center">Capital One Cafe Catastrophe | Capital One</div> <br>
+<img src="static/Capital One Cafe Catastrophe.gif" alt="Capital One Cafe Catastrophe Gameplay" /> <br>
+<div align="center"> <a href="https://github.com/adithnarayanan/c1-cafe-catastrophe">Code</a> | <a href="https://www.youtube.com/watch?v=FrpnGCZpwXU">Video</a></div> 
+</td>
+<td>
+<div align="center">Crossy Notes | Capital One</div> <br>
+<img src="static/Crossy Notes.gif" alt="Crossy Notes Gameplay" /> <br>
+<div align="center"> <a href="https://github.com/quinnouyang/CrossyNotes">Code</a> | <a href="https://www.youtube.com/watch?v=mAqWyB2h01U">Video</a></div> 
+</td>
+<td>
+<div align="center">Crossy Tractor | John Deere</div> <br>
 <img src="static/Crossy Tractor.gif" alt="Crossy Tractor Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/Amitten77/CrossyTractor">Code</a> | <a href="https://www.youtube.com/watch?v=sGEJH6Rxo4U&ab_channel=EzraAkresh">Video</a></div> </td></tr><tr><td><div align="center">Insure-it | Country Financial</div> <br>
-<img src="static/Insure-it.gif" alt="Insure-it Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/handojo3/Insure-It">Code</a> | <a href="https://youtu.be/nsN4cT2lHN8">Video</a></div> </td><td><div align="center">Farm Off | John Deere</div> <br>
+<div align="center"> <a href="https://github.com/Amitten77/CrossyTractor">Code</a> | <a href="https://www.youtube.com/watch?v=sGEJH6Rxo4U&ab_channel=EzraAkresh">Video</a></div> 
+</td>
+</tr>
+<tr>
+<td>
+<div align="center">Farm Off | John Deere</div> <br>
 <img src="static/Farm Off.gif" alt="Farm Off Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/debdeepm26/Farm-Off">Code</a> | <a href="https://www.youtube.com/watch?v=asfpWljgQko">Video</a></div> </td><td><div align="center">State Farm Super Sprint | State Farm</div> <br>
-<img src="static/State Farm Super Sprint.gif" alt="State Farm Super Sprint Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/srithakav/Pydash-main/tree/main">Code</a> | <a href="https://youtu.be/e9onBXKJyGY">Video</a></div> </td><td><div align="center">Rivian Adventure | Rivian</div> <br>
+<div align="center"> <a href="https://github.com/debdeepm26/Farm-Off">Code</a> | <a href="https://www.youtube.com/watch?v=asfpWljgQko">Video</a></div> 
+</td>
+<td>
+<div align="center">Insure-it | Country Financial</div> <br>
+<img src="static/Insure-it.gif" alt="Insure-it Gameplay" /> <br>
+<div align="center"> <a href="https://github.com/handojo3/Insure-It">Code</a> | <a href="https://youtu.be/nsN4cT2lHN8">Video</a></div> 
+</td>
+<td>
+<div align="center">Rivian Adventure | Rivian</div> <br>
 <img src="static/Rivian Adventure.gif" alt="Rivian Adventure Gameplay" /> <br>
-<div align="center"> <a href="https://github.com/advaithbala/uirphack_2023">Code</a> | <a href="https://youtu.be/4WL72N0womw">Video</a></div> </td></tr></table>
+<div align="center"> <a href="https://github.com/advaithbala/uirphack_2023">Code</a> | <a href="https://youtu.be/4WL72N0womw">Video</a></div> 
+</td>
+<td>
+<div align="center">State Farm Super Sprint | State Farm</div> <br>
+<img src="static/State Farm Super Sprint.gif" alt="State Farm Super Sprint Gameplay" /> <br>
+<div align="center"> <a href="https://github.com/srithakav/Pydash-main/tree/main">Code</a> | <a href="https://youtu.be/e9onBXKJyGY">Video</a></div> 
+</td>
+</tr>
+</table>
+
 # Hackathon Prompt
 
 **Create your own retro video game, incorporating your company/industry into the game design**
