@@ -15,6 +15,17 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 * [Kickoff Presentation][prompt_presentation_link]
 * [Discord Server][discord_link]
 
+# Awards
+
+| Award | Game | Company |
+|-------|------|---------|
+| **1st Place** | **Rivian Adventure** | **Rivian** |
+| 2nd Place | Crossy Tractor | John Deere |
+| 3rd Place | Capital Clash | CapitalOne |
+| Best Company Incorporation | Rivian Adventure | Rivian |
+| Most Original Concept | Insure-It | Country Financial |
+| Best Gameplay | Capital Clash | CapitalOne |
+
 # Submissions
 
 <table>
