@@ -47,8 +47,8 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 <div align="center"> <a href="https://github.com/debdeepm26/Farm-Off">Code</a> | <a href="https://www.youtube.com/watch?v=asfpWljgQko">Video</a></div> 
 </td>
 <td>
-<div align="center">Insure-it | Country Financial</div> <br>
-<img src="static/Insure-it.gif" alt="Insure-it Gameplay" /> <br>
+<div align="center">Insure-It | Country Financial</div> <br>
+<img src="static/Insure-It.gif" alt="Insure-It Gameplay" /> <br>
 <div align="center"> <a href="https://github.com/handojo3/Insure-It">Code</a> | <a href="https://youtu.be/nsN4cT2lHN8">Video</a></div> 
 </td>
 <td>
