@@ -19,8 +19,8 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 
 | Project Name   | GitHub           | YouTube            |
 | -------------- | ---------------- | ------------------ |
-| Crossy Notes | [Code](https://github.com/Kocree/muosaic-brain/tree/master/kocmus) | [Video](https://drive.google.com/file/d/1p2TJeSlUpRCbNzCYUEOap0Sb674faCKX/view?usp=sharing) |
-| Capital One Cafe Catastrophe | [Code](https://github.com/adithnarayanan/c1-cafe-catastrophe) | [Video](https://youtu.be/mAqWyB2h01U) |
+| Crossy Notes | [Code](https://github.com/Kocree/muosaic-brain/tree/master/kocmus) | [Video](https://www.youtube.com/watch?v=mAqWyB2h01U) |
+| Capital One Cafe Catastrophe | [Code](https://github.com/adithnarayanan/c1-cafe-catastrophe) | [Video](tinyurl.com/c1-cafe-catastrophe) |
 | Capital Clash | [Code](https://github.com/Messina22/c1-hackathon) | [Video](https://www.youtube.com/watch?v=ooCHkTgARCc) |
 | Crossy Tractor | [Code](https://github.com/Amitten77/CrossyTractor) | [Video](https://www.youtube.com/watch?v=sGEJH6Rxo4U&ab_channel=EzraAkresh) |
 | Insure-it | [Code](https://github.com/handojo3/Insure-It) | [Video](https://youtu.be/nsN4cT2lHN8) |
