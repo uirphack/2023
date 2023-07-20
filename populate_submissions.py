@@ -16,12 +16,23 @@ def write_file(path, string):
 df_submissions = pd.read_csv( 'submissions.csv' ) 
 
 # 2. Populate submissions_template
-submission_template = read_file( './templates/submission.md' ) 
+submission_template = read_file( './templates/submission.html' ) 
 submission = ''
-keys = [ 'project_name', 'github', 'youtube']
-for i in range(len(df_submissions)):
-    kwargs = { key: df_submissions.loc[i,key] for key in keys }
-    submission += submission_template.format( **kwargs )
+keys = [ 'project_name', 'github', 'youtube', 'company']
+
+ind = 0
+submission += '<table>'
+while ind < len(df_submissions):
+    submission += '<tr>'
+
+    for _ in range(4):
+        kwargs = { key: df_submissions.loc[ind,key] for key in keys }
+        submission += '<td>' + submission_template.format( **kwargs ) + '</td>'
+        ind += 1
+
+    submission += '</tr>'
+submission += '</table>'
+
 
 # 3. Populate submissions template
 submissions_template = read_file( './templates/submissions.md' ) 
