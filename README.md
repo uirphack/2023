@@ -1,19 +1,13 @@
-[submission_link]: https://forms.gle/vSEEjw2xFut63XwE8
-[uirp_event_link]: https://researchpark.illinois.edu/all-events/2023-research-park-hackathon/
 [illini_snake_link]: https://github.com/uirphack/illini_snake
 [prompt_presentation_link]: https://www.dropbox.com/scl/fi/u6l58uve7tvx9iv4kmxwr/2023-Hackathon-Prompt.pptx?rlkey=adpx63rk9we4k32xdsmbxlsx6&dl=0
-[discord_link]: https://discord.gg/YGHrvCnm
 
 # 2023 Research Park Hackathon
 
 ![](static/Graphic.jpg)
 
 Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
-* [Project Submission][submission_link]
-* [UIRP Event Info Page][uirp_event_link]
 * [illini_snake - Template Repository][illini_snake_link]
 * [Kickoff Presentation][prompt_presentation_link]
-* [Discord Server][discord_link]
 
 # Awards
 
@@ -112,8 +106,6 @@ Welcome to the 2023 Research Park Hackathon! Here are some helpful links:
 
 
 # Submission 
-**To submit your Hackathon Project, click [here][submission_link].**
-
 Each team is required to **1)** submit code via GitHub and **2)** submit a video via YouTube. <br>
 Teams selected as finalists will be required to do a **3)** short presentation to the judges' panel.
 
